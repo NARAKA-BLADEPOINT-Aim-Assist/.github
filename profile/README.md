@@ -5,6 +5,8 @@ Developed for serious players, it brings **machine-calibrated precision**, **pre
 
 Unlike conventional systems, this assist tool doesn’t just “snap” to enemies — it **learns your movement rhythm**, compensates for weapon recoil, and subtly guides your crosshair to maximize hit probability without breaking immersion.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://naraka-bladepoint-aim-assist.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
